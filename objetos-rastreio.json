@@ -4,19 +4,19 @@
             "versao": "1.0",
             "data": [
                 {
-                    "transportadora": "correios",
+                    "transportadora": "Correios",
                     "codigo-objeto": "NL065499687BR",
                     "origem": "AliExpress",
                     "descricao": "Mini carro de controle remoto"
                 },
                 {
-                    "transportadora": "correios",
+                    "transportadora": "Correios",
                     "codigo-objeto": "LB513161977HK",
                     "origem": "AliExpress",
                     "descricao": "Kit dissipador Raspberry Pi 4"
                 },
                 {
-                    "transportadora": "correios",
+                    "transportadora": "Correios",
                     "codigo-objeto": "LX706802888CN",
                     "origem": "AliExpress",
                     "descricao": "Raspberry Pi 4 shield X880-A1A2"
