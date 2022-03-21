@@ -5,12 +5,6 @@
             "data": [
                 {
                     "transportadora": "Correios",
-                    "codigo-objeto": "NL065499687BR",
-                    "origem": "AliExpress",
-                    "descricao": "Mini carro de controle remoto"
-                },
-                {
-                    "transportadora": "Correios",
                     "codigo-objeto": "LB513161977HK",
                     "origem": "AliExpress",
                     "descricao": "Kit dissipador Raspberry Pi 4"
