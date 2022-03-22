@@ -14,6 +14,12 @@
                     "codigo-objeto": "LX706802888CN",
                     "origem": "AliExpress",
                     "descricao": "Raspberry Pi 4 shield X880-A1A2"
+                },
+                {
+                    "transportadora": "Correios",
+                    "codigo-objeto": "LB319568454HK",
+                    "origem": "AliExpress",
+                    "descricao": "Raspberry Pi 4 shield fans"
                 }
             ]
         }
