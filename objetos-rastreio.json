@@ -5,12 +5,6 @@
             "data": [
                 {
                     "transportadora": "Correios",
-                    "codigo-objeto": "LB513161977HK",
-                    "origem": "AliExpress",
-                    "descricao": "Kit dissipador Raspberry Pi 4"
-                },
-                {
-                    "transportadora": "Correios",
                     "codigo-objeto": "LX706802888CN",
                     "origem": "AliExpress",
                     "descricao": "Raspberry Pi 4 shield X880-A1A2"
@@ -20,6 +14,12 @@
                     "codigo-objeto": "LB319568454HK",
                     "origem": "AliExpress",
                     "descricao": "Raspberry Pi 4 shield fans"
+                },
+                {
+                    "transportadora": "Correios",
+                    "codigo-objeto": "OT789726904BR",
+                    "origem": "Americanas.com",
+                    "descricao": "Pressurizador purificador 1/4\""
                 }
             ]
         }
